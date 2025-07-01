@@ -2,18 +2,18 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/ibrahim-test-publish11-ibrahim-test-publish11-spring-2023/image-1.png
-file_size: 1272559
-file_type: image/png
+file: /courses/ibrahim-test-publish11-ibrahim-test-publish11-spring-2023/testvid_transcript.pdf
+file_size: 13264
+file_type: application/pdf
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-resourcetype: Image
-title: image (1).png
-uid: 92e45590-5016-4c4d-82f7-721533eda5b2
+resourcetype: Document
+title: testvid_transcript.pdf
+uid: 8a90b02d-46f9-4222-8f3b-ba5d6c2c4869
 video_files:
   archive_url: ''
   video_captions_file: ''
