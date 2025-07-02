@@ -16,9 +16,9 @@ title: testvids.mp4
 uid: da27bd2b-7248-4142-8d6b-ef45174cc950
 video_files:
   archive_url: ''
-  video_captions_file: ''
+  video_captions_file: /courses/ibrahim-test-publish11-ibrahim-test-publish11-spring-2023/testvids_captions.vtt
   video_thumbnail_file: ''
-  video_transcript_file: ''
+  video_transcript_file: /courses/ibrahim-test-publish11-ibrahim-test-publish11-spring-2023/testvids_transcript.pdf
 video_metadata:
   source: ''
   video_speakers: ''
